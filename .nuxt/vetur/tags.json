@@ -1,0 +1,56 @@
+{
+  "Post": {
+    "description": "Auto imported from C:/LikeYAGitHub/WakeApp_nuxt/components/Post/Post.vue"
+  },
+  "LazyPost": {
+    "description": "Auto imported from C:/LikeYAGitHub/WakeApp_nuxt/components/Post/Post.vue"
+  },
+  "PostForm": {
+    "description": "Auto imported from C:/LikeYAGitHub/WakeApp_nuxt/components/Post/PostForm.vue"
+  },
+  "LazyPostForm": {
+    "description": "Auto imported from C:/LikeYAGitHub/WakeApp_nuxt/components/Post/PostForm.vue"
+  },
+  "PostList": {
+    "description": "Auto imported from C:/LikeYAGitHub/WakeApp_nuxt/components/Post/PostList.vue"
+  },
+  "LazyPostList": {
+    "description": "Auto imported from C:/LikeYAGitHub/WakeApp_nuxt/components/Post/PostList.vue"
+  },
+  "Header": {
+    "description": "Auto imported from C:/LikeYAGitHub/WakeApp_nuxt/components/system/Header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from C:/LikeYAGitHub/WakeApp_nuxt/components/system/Header.vue"
+  },
+  "Preloader": {
+    "description": "Auto imported from C:/LikeYAGitHub/WakeApp_nuxt/components/UI/Preloader.vue"
+  },
+  "LazyPreloader": {
+    "description": "Auto imported from C:/LikeYAGitHub/WakeApp_nuxt/components/UI/Preloader.vue"
+  },
+  "Search": {
+    "description": "Auto imported from C:/LikeYAGitHub/WakeApp_nuxt/components/UI/Search.vue"
+  },
+  "LazySearch": {
+    "description": "Auto imported from C:/LikeYAGitHub/WakeApp_nuxt/components/UI/Search.vue"
+  },
+  "Button": {
+    "description": "Auto imported from C:/LikeYAGitHub/WakeApp_nuxt/components/UI/Controls/Button.vue"
+  },
+  "LazyButton": {
+    "description": "Auto imported from C:/LikeYAGitHub/WakeApp_nuxt/components/UI/Controls/Button.vue"
+  },
+  "Input": {
+    "description": "Auto imported from C:/LikeYAGitHub/WakeApp_nuxt/components/UI/Controls/Input.vue"
+  },
+  "LazyInput": {
+    "description": "Auto imported from C:/LikeYAGitHub/WakeApp_nuxt/components/UI/Controls/Input.vue"
+  },
+  "Select": {
+    "description": "Auto imported from C:/LikeYAGitHub/WakeApp_nuxt/components/UI/Controls/Select.vue"
+  },
+  "LazySelect": {
+    "description": "Auto imported from C:/LikeYAGitHub/WakeApp_nuxt/components/UI/Controls/Select.vue"
+  }
+}
